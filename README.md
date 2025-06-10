@@ -44,7 +44,7 @@
 </head>
 <body>
 
-  <img src="278d022b-0e8f-443a-8056-54e43962305e.JPG" alt="Saniya Irfan" width="200" style="border-radius: 50%;">
+  <img src="278d022b-0e8f-443a-8056-54e43962305e.JPG" alt="Saniya Irfan" width="200" style="border-radius: 0;">
 
   <h1>👩‍💻 Saniya Irfan aka San</h1>
   <p style="text-align:center;"><strong>PhD Scholar | IIT Delhi | Digital Humanities</strong></p>
