@@ -106,14 +106,6 @@
   </div>
 
   <div class="section">
-    <h2>🎤 Conferences & Talks</h2>
-    <ul>
-      <li>ADHO 2025 (upcoming): Comparative NLP methods in Urdu Marsiya</li>
-      <li>DHARTI 2024: Semantic layers in Urdu elegiac poetry</li>
-    </ul>
-  </div>
-
-  <div class="section">
     <h2>🌐 Connect</h2>
     <ul>
       <li><a href="https://www.linkedin.com/in/sansue/">LinkedIn</a></li>
