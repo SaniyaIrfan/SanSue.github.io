@@ -44,7 +44,7 @@
 </head>
 <body>
 
-  <img src="<img src="https://raw.githubusercontent.com/saniya-irfan/saniya-irfan.github.io/main/278d022b-0e8f-443a-8056-54e43962305e.JPG" alt="Saniya Irfan">
+  <img src="<img src="https://raw.githubusercontent.com/saniya-irfan/saniya-irfan.github.io/main/278d022b-0e8f-443a-8056-54e43962305e.JPG">
 
   <h1>👩‍💻 Saniya Irfan aka San</h1>
   <p style="text-align:center;"><strong>PhD Scholar | IIT Delhi | Digital Humanities</strong></p>
